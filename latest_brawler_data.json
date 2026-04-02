@@ -1,0 +1,11 @@
+[
+    {
+        "brawler": "frank",
+        "push_until": 1000,
+        "trophies": 661,
+        "wins": 0,
+        "type": "trophies",
+        "automatically_pick": false,
+        "win_streak": 0
+    }
+]

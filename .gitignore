@@ -1,0 +1,5 @@
+.codex_tmp_*
+__pycache__/
+*.pyc
+Q
+brawler_menu_btn_not_found.png
